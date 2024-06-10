@@ -4,7 +4,7 @@
 Webアプリの体験　〜3分であなたの感覚を可視化！〜<br>
 下記のURLから開始。スマホ、タブレット、パソコンに対応。横持ち推奨。<br>
 ![サンプル](https://scrapbox.io/files/666050421ddb42001c10f025.png "サンプル")<br>
-[体験版](https://tomatoa20-7uvitbfjtrlqyrenfus9wz.streamlit.app/])<br>
+[体験版](https://tomatoa20-7uvitbfjtrlqyrenfus9wz.streamlit.app/)<br>
 ↑↑↑Foomaの会場で用いたアプリより古いバージョンです。<br>
 Foomaで使用した最新のアプリを体験希望の方はご連絡ください。<br>
 
@@ -12,9 +12,9 @@ Foomaで使用した最新のアプリを体験希望の方はご連絡くださ
 ![サンプル](https://scrapbox.io/files/66643a440d374b001dd7d1c3.png "サンプル")<br>
 
 ## 発表資料<br>
-ポスター[https://www.dropbox.com/scl/fi/p4c3kp6u4l2ym68lf8zdy/Fooma2024_-_.pdf?rlkey=g42pgs8sntlzynjmye36m2dsj&dl=0]<br>
-プレゼン[https://www.dropbox.com/scl/fi/wsy9mx15zxzb6ws5v55t8/240607_Fooma_.pdf?rlkey=y6bm8ois7fwb0t9dcek6a289c&dl=0]<br>
-要旨[https://www.dropbox.com/scl/fi/s53kcd5mdgrz7eyag5epl/Fooma2024_-_.pdf?rlkey=eldwlauqjl4xq4qfwehkv2u2k&dl=0]<br>
+[ポスター](https://www.dropbox.com/scl/fi/p4c3kp6u4l2ym68lf8zdy/Fooma2024_-_.pdf?rlkey=g42pgs8sntlzynjmye36m2dsj&dl=0)<br>
+[プレゼン](https://www.dropbox.com/scl/fi/wsy9mx15zxzb6ws5v55t8/240607_Fooma_.pdf?rlkey=y6bm8ois7fwb0t9dcek6a289c&dl=0)<br>
+[要旨](https://www.dropbox.com/scl/fi/s53kcd5mdgrz7eyag5epl/Fooma2024_-_.pdf?rlkey=eldwlauqjl4xq4qfwehkv2u2k&dl=0)<br>
 
 ## 英語論文<br>
 ランキング手法を基に、トマトの品質を予測するAIを開発！<br>
