@@ -1,9 +1,6 @@
-# sensory_test_fooma2024
-
-
 ## 言語化しづらい感覚を浮き彫りに！ <br>
 ## 〜ランキング手法で解き明かす農産物の傷と曲がりに対する認識〜 <br>
-<span style="color: red; ">アプリ</span><br>
+## <span style="color: red; ">アプリ</span><br>
 Webアプリの体験　〜3分であなたの感覚を可視化！〜<br>
 下記のURLから開始。スマホ、タブレット、パソコンに対応。横持ち推奨。<br>
 ![サンプル](https://scrapbox.io/files/666050421ddb42001c10f025.png "サンプル")<br>
