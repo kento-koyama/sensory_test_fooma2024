@@ -15,22 +15,19 @@ Foomaで使用した最新のアプリを体験希望の方はご連絡くださ
 ![サンプル](https://scrapbox.io/files/66643a440d374b001dd7d1c3.png "サンプル")<br>
 
 ## 発表資料<br>
-ポスターをダウンロード<br>
-[Fooma2024_言語化しづらい感覚を浮き彫りに！.pdf https://scrapbox.io/files/665da9b7207ec7001c0ab679.pdf]
- プレゼンをダウンロード
-https://www.dropbox.com/scl/fi/wsy9mx15zxzb6ws5v55t8/240607_Fooma_.pdf?rlkey=y6bm8ois7fwb0t9dcek6a289c&dl=0
-　要旨をダウンロード
-[Fooma_要旨_提出_北大農.pdf https://scrapbox.io/files/665ef441e85870001d4a91f3.pdf]
+ポスター[https://scrapbox.io/files/665da9b7207ec7001c0ab679.pdf]<br>
+プレゼン[https://www.dropbox.com/scl/fi/wsy9mx15zxzb6ws5v55t8/240607_Fooma_.pdf?rlkey=y6bm8ois7fwb0t9dcek6a289c&dl=0]<br>
+要旨[Fooma_要旨_提出_北大農.pdf https://scrapbox.io/files/665ef441e85870001d4a91f3.pdf]<br>
 
-[** 英語論文]
- ランキング手法を基に、トマトの品質を予測するAIを開発！
-Abe, S., Matsui, T., Koseki, S., & Koyama, K. (2024). Hierarchical ranking sensory evaluation test of fresh produce quality: A case study of injured cherry tomato images. Food Quality and Preference, 118, 105167.
-https://doi.org/10.1016/j.foodqual.2024.105167
-[https://scrapbox.io/files/665dfd83a2ed2c001c963b19.png]
+## 英語論文<br>
+ランキング手法を基に、トマトの品質を予測するAIを開発！<br>
+Abe, S., Matsui, T., Koseki, S., & Koyama, K. (2024). Hierarchical ranking sensory evaluation test of fresh produce quality: A case study of injured cherry tomato images. Food Quality and Preference, 118, 105167.<br>
+[https://doi.org/10.1016/j.foodqual.2024.105167]<br>
+![サンプル](https://scrapbox.io/files/665dfd83a2ed2c001c963b19.png "サンプル")<br>
 
 
-連絡先
-開発者　長岐幸尚　ながきゆきひさ
-教員　小山健斗　こやまけんと
-kkoyama*agr.hokudai.ac.jp
-*に@をいれる。
+## 連絡先 <br>
+開発者　長岐幸尚　ながきゆきひさ<br>
+教員　小山健斗　こやまけんと<br>
+kkoyama*agr.hokudai.ac.jp<br>
+*に@をいれる。<br>
