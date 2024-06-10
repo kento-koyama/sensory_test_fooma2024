@@ -8,7 +8,7 @@ Webアプリの体験　〜3分であなたの感覚を可視化！〜<br>
 下記のURLから開始。スマホ、タブレット、パソコンに対応。横持ち推奨。<br>
 ![サンプル](https://scrapbox.io/files/666050421ddb42001c10f025.png "サンプル")<br>
 
-[体験版]([url](https://tomatoa20-7uvitbfjtrlqyrenfus9wz.streamlit.app/))<br>
+[体験版]((https://tomatoa20-7uvitbfjtrlqyrenfus9wz.streamlit.app/])<br>
 
 [[↑↑↑Foomaの会場で用いたアプリより古いバージョンです。]]
 [[Foomaで使用した最新のアプリを体験希望の方はご連絡ください。]]
