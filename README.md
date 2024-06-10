@@ -12,9 +12,9 @@ Foomaで使用した最新のアプリを体験希望の方はご連絡くださ
 ![サンプル](https://scrapbox.io/files/66643a440d374b001dd7d1c3.png "サンプル")<br>
 
 ## 発表資料<br>
-ポスター[https://scrapbox.io/files/665da9b7207ec7001c0ab679.pdf]<br>
+ポスター[https://www.dropbox.com/scl/fi/p4c3kp6u4l2ym68lf8zdy/Fooma2024_-_.pdf?rlkey=g42pgs8sntlzynjmye36m2dsj&dl=0]<br>
 プレゼン[https://www.dropbox.com/scl/fi/wsy9mx15zxzb6ws5v55t8/240607_Fooma_.pdf?rlkey=y6bm8ois7fwb0t9dcek6a289c&dl=0]<br>
-要旨[https://scrapbox.io/files/665ef441e85870001d4a91f3.pdf]<br>
+要旨[https://www.dropbox.com/scl/fi/s53kcd5mdgrz7eyag5epl/Fooma2024_-_.pdf?rlkey=eldwlauqjl4xq4qfwehkv2u2k&dl=0]<br>
 
 ## 英語論文<br>
 ランキング手法を基に、トマトの品質を予測するAIを開発！<br>
