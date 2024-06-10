@@ -7,17 +7,15 @@
 Webアプリの体験　〜3分であなたの感覚を可視化！〜<br>
 下記のURLから開始。スマホ、タブレット、パソコンに対応。横持ち推奨。<br>
 ![サンプル](https://scrapbox.io/files/666050421ddb42001c10f025.png "サンプル")<br>
+[体験版](https://tomatoa20-7uvitbfjtrlqyrenfus9wz.streamlit.app/])<br>
+↑↑↑Foomaの会場で用いたアプリより古いバージョンです。<br>
+Foomaで使用した最新のアプリを体験希望の方はご連絡ください。<br>
 
-[体験版]((https://tomatoa20-7uvitbfjtrlqyrenfus9wz.streamlit.app/])<br>
+## Foomaでのアプリ体験会の結果<br>
+![サンプル](https://scrapbox.io/files/66643a440d374b001dd7d1c3.png "サンプル")<br>
 
-[[↑↑↑Foomaの会場で用いたアプリより古いバージョンです。]]
-[[Foomaで使用した最新のアプリを体験希望の方はご連絡ください。]]
-
-[** Foomaでのアプリ体験会の結果]
-[https://scrapbox.io/files/66643a440d374b001dd7d1c3.png]
-
-[** 発表資料]
-　ポスターをダウンロード
+## 発表資料<br>
+ポスターをダウンロード<br>
 [Fooma2024_言語化しづらい感覚を浮き彫りに！.pdf https://scrapbox.io/files/665da9b7207ec7001c0ab679.pdf]
  プレゼンをダウンロード
 https://www.dropbox.com/scl/fi/wsy9mx15zxzb6ws5v55t8/240607_Fooma_.pdf?rlkey=y6bm8ois7fwb0t9dcek6a289c&dl=0
